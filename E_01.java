@@ -10,8 +10,9 @@ import java.util.Scanner;
 
 /**
  *
- * @author sandr
+ * @author alber
  */
+
 public class E_01 {
 
     /**
